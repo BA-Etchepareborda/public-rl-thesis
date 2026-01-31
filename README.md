@@ -21,5 +21,7 @@ The goal of this research is to develop a robust navigation stack that integrate
 ## 📊 Preliminary Results
 [Aquí puedes poner una captura de pantalla de un gráfico de recompensa (Reward) o de éxito de misión]
 
+<img width="279" height="293" alt="image" src="https://github.com/user-attachments/assets/56839afd-efb8-433f-a862-d319d8b77c57" />
+
 ---
 *For inquiries regarding technical details or a private demo, please contact me via LinkedIn.*
